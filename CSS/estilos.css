@@ -52,10 +52,10 @@ h1{
     text-align: center;
 }
 .fondo1{
-    background-color:rgb(175, 163, 148);
+    background-color:rgb(190, 190, 190);
 }
 .fondo2{
-    background-color: rgb(47, 31, 31);
+    background-color: rgb(0, 0, 0);
     color: white;
 }
 .centro{
@@ -83,7 +83,7 @@ h1{
     text-align: center;
 }
 footer{
-    background-color:white;
+    background-color:rgb(190, 190, 190);
     text-align: center;
     left: 0;
     bottom: 0;
